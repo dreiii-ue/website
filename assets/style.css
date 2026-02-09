@@ -395,6 +395,28 @@ hr {
     clear: both;
 }
 
+/* RETURN TO TOP */
+.top-btn {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 12px 16px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.top-btn:hover {
+  background-color: #555;
+}
+
+
+
 /* RESPONSIVE */
 @media (max-width: 900px) {
     .side-image {
@@ -430,3 +452,4 @@ hr {
         padding: 8px 16px;
     }
 }
+
