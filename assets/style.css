@@ -399,7 +399,7 @@ hr {
 .top-btn {
     display: block;
     width: fit-content;
-    margin: 60px auto;   /* vertical + horizontal centering */
+    margin: 60px auto;
     background-color: #4a90e2;
     color: #fff;
     text-decoration: none;
